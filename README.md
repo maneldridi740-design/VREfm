@@ -2,6 +2,7 @@
 
 Interactive genomic epidemiology dashboard built with Streamlit.  
 Runs entirely in **Google Colab** via a Cloudflare tunnel — no local install needed.
+https://colab.research.google.com/drive/1iqWLf8MUzGz_leqUeIcXm8Hh_HJMMObA#scrollTo=NLlx71rlf81u
 
 ## Features
 
