@@ -1,5 +1,5 @@
 # VREfm v4.0  
-### Vancomycin-Resistant *Enterococcus faecium* Genomic Inference & Visualization Platform
+### Vancomycin-Resistant *Enterococcus faecium* Genomic Visualization Platform
 
 Interactive genomic epidemiology and phylogenetics platform built with **Streamlit**.  
 Runs entirely in **Google Colab via a secure Cloudflare tunnel** — no local installation required.
