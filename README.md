@@ -102,4 +102,4 @@ VREfm is engineered for antimicrobial resistance (AMR) surveillance and hospital
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+**MIT License**. 
